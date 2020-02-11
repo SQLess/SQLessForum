@@ -30,7 +30,7 @@ A simple **decentralized** forum powered by [SQLess](https://github.com/SQLess/S
 1. Download and compile the forum binary:
 
 ```
-$ go get -u SQLess/SQLessForum/cmd/forum
+$ go get -u  github.com/SQLess/SQLessForum/cmd/forum
 ```
 
 2. Inside an empty directory run:
